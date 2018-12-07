@@ -1,5 +1,5 @@
 // Create Variables for the game 
-var wordBank = ['mordicai' , 'rigby' , 'muscle man' , 'pops' , 'skips' , 'benson'];
+var wordBank = ['mordicai' , 'rigby' , 'muscleman' , 'pops' , 'skips' , 'benson'];
 var randomWord = "";
 var lettersOfWord = [];
 var blanks = 0;
