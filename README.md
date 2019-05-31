@@ -3,4 +3,4 @@ Regular show themed word-guessing game built from scratch using plain old HTML, 
 
 Try it right here :
 
-https://github.com/Eligv99/Word-Guess-Game
+https://eligv99.github.io/Word-Guess-Game/index.html
