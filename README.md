@@ -3,6 +3,6 @@ Regular show themed word-guessing game built from scratch using plain old HTML, 
 
 # Demo 
 
-Try it right [here](https://eligv99.github.io/Word-Guess-Game/index.html)
+<h3>Try it right [here](https://eligv99.github.io/Word-Guess-Game/index.html)</h3>
 
 
